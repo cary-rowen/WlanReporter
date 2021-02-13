@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WlanReporter\n"
+"POT-Creation-Date: 2019-12-22 01:24+0800\n"
+"PO-Revision-Date: 2021-02-13 14:49+0800\n"
+"Last-Translator: Kvark <kvark128@yandex.ru>\n"
+"Language-Team: 简体中文翻译Eureka\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../../../globalPlugins\n"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:19
+msgid "No authentication (Open)"
+msgstr "无身份验证 (开放)"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:34
+msgid "Connected to {}"
+msgstr "{} 已连接"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:38
+msgid "Disconnected from {}"
+msgstr "{}已断开"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:41
+msgid "A wireless device has been enabled"
+msgstr "已启用无线网卡"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:44
+msgid "A wireless device has been disabled"
+msgstr "已禁用无线网卡"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:65
+msgid "No wireless devices"
+msgstr "没有无线网卡"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:73
+msgid "Connected to {}, signal {}%, security type {}"
+msgstr "{} 已连接， 信号 {}%， 安全类型 {}"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:76
+msgid "No wireless connections"
+msgstr "WLAN未连接"
+
+#: ../../../globalPlugins/WlanReporter/__init__.py:79
+msgid "Reports the status of the wireless connection"
+msgstr "朗读WLAN连接状态"
